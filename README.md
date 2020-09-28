@@ -1,1 +1,1 @@
-# EE599_Fall2020
+# Code for EE Deep Learning Systems Course - USC Fall 2020 
